@@ -1,0 +1,10 @@
+0 theta0: 2.000, theta1: 1.000, cost: 1.500
+1 theta0: 2.010, theta1: 1.050, cost: 1.255
+2 theta0: 2.018, theta1: 1.094, cost: 1.066
+3 theta0: 2.025, theta1: 1.133, cost: 0.918
+4 theta0: 2.031, theta1: 1.168, cost: 0.800
+5 theta0: 2.036, theta1: 1.199, cost: 0.709
+6 theta0: 2.040, theta1: 1.226, cost: 0.639
+7 theta0: 2.043, theta1: 1.250, cost: 0.584
+8 theta0: 2.045, theta1: 1.271, cost: 0.542
+9 theta0: 2.046, theta1: 1.290, cost: 0.508
